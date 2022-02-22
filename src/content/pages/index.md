@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: "Runner Artist "
+tagline: Cartoonist
+featuredImage: /assets/e97118e1-703d-4ad4-a8df-25b52ca3d2f3.gif
 cta:
   ctaText: Know more
   ctaLink: /about
